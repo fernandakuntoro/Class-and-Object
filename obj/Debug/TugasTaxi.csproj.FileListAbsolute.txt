@@ -1,0 +1,6 @@
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe.config
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.pdb
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csprojResolveAssemblyReference.cache
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.exe
+E:\21.11.4471\Calculator\praktikum 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.pdb
